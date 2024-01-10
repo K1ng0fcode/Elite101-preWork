@@ -4,7 +4,7 @@
 This is a repository created by *Kabod*
 
 
-## Usage
+### Usage
 
 
 Run this command to execute the application:
